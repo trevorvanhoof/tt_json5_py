@@ -1,6 +1,8 @@
 # tt_json5
 
-Basic json5 compliant* parser in python. Readability was more important than speed.
+MIT Licensed json5 compliant* parser in pure python. 
+
+Readability was more important than speed.
 
 ### Todo
 
